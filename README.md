@@ -1,6 +1,6 @@
 # Cadastro de Clientes da Electronic
 
-**Estudante:** _SEU NOME COMPLETO_ — _Matrícula/Turma_
+**Estudante:** _Barbara C. Oliveira_
 **Atividade 01** — Paradigmas de programação / POO em JavaScript
 
 Módulo de cadastro de clientes (pessoa física e jurídica) para o e-commerce da Electronic, desenvolvido para a Appfull.
